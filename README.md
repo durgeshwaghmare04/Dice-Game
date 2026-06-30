@@ -1,1 +1,1 @@
-#DISE GAME
+#DICE GAME
